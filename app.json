@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "MyBlankProject",
+    "slug": "MyBlankProject",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Logo/mcdo-logo.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/Logo/mcdo-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "default"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Logo/mcdo-logo.png",
+        "backgroundColor": "default"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Logo/mcdo-logo.png"
+    }
+  }
+}
