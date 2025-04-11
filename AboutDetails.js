@@ -1,0 +1,48 @@
+const sections = [
+    {
+      id: '1',
+      title1: 'Commitment to Quality',
+      desc1: 'We\'re dedicated to improving the way we prepare our quality food and the ingredients that go into it.',
+      title2: 'What\'s in Your Food',
+      desc2: 'Find out what makes our ingredients special.',
+      img1: require('../assets/About/Header_2PUB_Ingredients.jpg'),
+      img2: require('../assets/About/2_Pub_Whats_In_Your_Food.jpg'),
+      stack1: 'AboutSectionOne',
+      stack2: 'AboutSectionTwo',
+    },
+    {
+      id: '2',
+      title1: 'Our Food Philosophy',
+      desc1: 'We’re passionate about our food. That’s why we’re committed to always evolving what matters to you.',
+      title2: 'Nutrition Calculator',
+      desc2: 'Our nutrition calculator has the McDonald’s menu nutrition information you’re seeking. Learn more about your favorite meals.',
+      img1: require('../assets/About/about-food_philosophy_pub-2-col.jpg'),
+      img2: require('../assets/About/TwoPub_Desktop_NutritionCalculator.jpg'),
+      stack1: 'AboutSectionThree',
+      stack2: 'AboutSectionFour',
+    },
+    {
+      id: '3',
+      title1: 'Our Food Experts',
+      desc1: 'From our chefs, to our registered dieticians and suppliers, McDonald’s food experts care deeply about the food you eat.',
+      title2: 'Fresh Beef',
+      desc2: 'Our Quarter Pounder® patty is made with 100% fresh beef and cooked right when you order. It’s hot and deliciously juicy and full of flavor.',
+      img1: require('../assets/About/Our_Food_Experts_2-col.jpg'),
+      img2: require('../assets/About/FreshBeefPage_QPC.jpg'),
+      stack1: 'AboutSectionFive',
+      stack2: 'AboutSectionSix',
+    },
+    {
+      id: '4',
+      title1: 'Happy Meal® Nutrition',
+      desc1: 'When your kids enjoy a meal that’s delicious and balanced, you’ll enjoy it too.',
+      title2: 'Variety of Choices',
+      desc2: 'When it comes to quality options, we’ve got you covered.',
+      img1: require('../assets/About/2_Pub_Happy_Meal.jpg'),
+      img2: require('../assets/About/Variety_2Col.jpg'),
+      stack1: 'AboutSectionSeven',
+      stack2: 'AboutSectionEight',
+    },
+  ];
+
+export default sections;
